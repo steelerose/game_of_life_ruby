@@ -1,4 +1,4 @@
-game_of_life_ruby
+Game of Life
 =================
 
-Conway's Game of Life in Ruby
+As developed by British mathematician John Conway - an interactive cellular automaton. Constructed in Ruby.
